@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T21:10:41.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qRK536EU-tErVnsk1p1V" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T21:20:36.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_6pU94eIp8kA5fIKhPFu" version="21.3.2" type="github">
   <diagram name="Page-1" id="qmEW6ajSkmtEpjvPChuy">
     <mxGraphModel dx="1036" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -380,8 +380,51 @@
         <mxCell id="gUO-nnUhF8CoAVNUh9_9-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
           <mxGeometry x="564" y="425.5" width="41" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="gUO-nnUhF8CoAVNUh9_9-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
-          <mxGeometry x="574" y="435.5" width="41" height="29" as="geometry" />
+        <mxCell id="gUO-nnUhF8CoAVNUh9_9-3" value="&lt;a style=&quot;box-sizing: border-box; color: rgb(0, 105, 194); background-color: rgb(250, 250, 250); cursor: pointer; font-family: &amp;quot;Ericsson Hilda&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: right;&quot; class=&quot;ng-star-inserted&quot; href=&quot;https://hydra.gic.ericsson.se/ci/632656/data&quot;&gt;seroiadls00044&lt;/a&gt;,&amp;nbsp;&lt;a style=&quot;box-sizing: border-box; color: rgb(0, 105, 194); background-color: rgb(250, 250, 250); cursor: pointer; font-family: &amp;quot;Ericsson Hilda&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: right;&quot; class=&quot;ng-star-inserted&quot; href=&quot;https://hydra.gic.ericsson.se/ci/632656/data&quot;&gt;seroiadls00045&lt;/a&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+          <mxGeometry x="570" y="415.5" width="41" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="gUO-nnUhF8CoAVNUh9_9-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.62;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.751;exitY=0.314;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gUO-nnUhF8CoAVNUh9_9-2" target="DqQEm0YlbbgdJ4GvyhTK-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="419" as="sourcePoint" />
+            <mxPoint x="887" y="419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gUO-nnUhF8CoAVNUh9_9-5" value="QFX_serointrt12302" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="80" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="gUO-nnUhF8CoAVNUh9_9-6" value="SLX_serointrt00108&lt;br style=&quot;font-size: 8px;&quot;&gt;N99" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="561.5" y="218" width="105" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="gUO-nnUhF8CoAVNUh9_9-7" value="SLX_serointsw00016&lt;br style=&quot;font-size: 8px;&quot;&gt;N99" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="620" y="138.5" width="105" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="gUO-nnUhF8CoAVNUh9_9-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.751;exitY=0.314;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="gUO-nnUhF8CoAVNUh9_9-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="349.88" y="333" as="sourcePoint" />
+            <mxPoint x="434.88" y="288" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gUO-nnUhF8CoAVNUh9_9-9" value="Eth0/31,32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gUO-nnUhF8CoAVNUh9_9-8">
+          <mxGeometry x="-0.7359" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gUO-nnUhF8CoAVNUh9_9-10" value="49,53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gUO-nnUhF8CoAVNUh9_9-8">
+          <mxGeometry x="0.5941" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gUO-nnUhF8CoAVNUh9_9-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="430" as="sourcePoint" />
+            <mxPoint x="800" y="255.26" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gUO-nnUhF8CoAVNUh9_9-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="270" as="sourcePoint" />
+            <mxPoint x="560" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
