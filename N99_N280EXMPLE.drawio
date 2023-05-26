@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T12:32:01.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0SDWLn22rKLnv67oyZ4t" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T10:39:58.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Ki_cNotxiO2pJ5tsv1bb" version="21.3.3" type="github">
   <diagram name="Page-1" id="qmEW6ajSkmtEpjvPChuy">
-    <mxGraphModel dx="996" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1660" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,8 +60,8 @@
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DqQEm0YlbbgdJ4GvyhTK-12" value="serointrt00126&lt;br style=&quot;font-size: 8px;&quot;&gt;N280" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="413" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="DqQEm0YlbbgdJ4GvyhTK-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;R6K_serointrt00126&lt;br style=&quot;&quot;&gt;N280&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="413" y="540" width="127" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DqQEm0YlbbgdJ4GvyhTK-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=8;" parent="1" source="DqQEm0YlbbgdJ4GvyhTK-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -85,8 +85,8 @@
             <mxPoint x="-60" y="-127" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DqQEm0YlbbgdJ4GvyhTK-17" value="R6K_serointrt00125&lt;br style=&quot;font-size: 8px;&quot;&gt;N280" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="43" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="DqQEm0YlbbgdJ4GvyhTK-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;R6K_serointrt00125&lt;br style=&quot;&quot;&gt;N280&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="40" y="540" width="123" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DqQEm0YlbbgdJ4GvyhTK-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.678;exitY=-0.023;exitDx=0;exitDy=0;fontSize=8;exitPerimeter=0;" parent="1" source="DqQEm0YlbbgdJ4GvyhTK-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -476,16 +476,16 @@
         <mxCell id="gUO-nnUhF8CoAVNUh9_9-23" value="&lt;a style=&quot;box-sizing: border-box; color: rgb(0, 105, 194); background-color: rgb(250, 250, 250); cursor: pointer; font-family: &amp;quot;Ericsson Hilda&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: right;&quot; class=&quot;ng-star-inserted&quot; href=&quot;https://hydra.gic.ericsson.se/ci/632656/data&quot;&gt;seroiadls&lt;/a&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" parent="1" vertex="1">
           <mxGeometry x="553" y="291" width="13" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="fDHc7nuSERFL8diUOKGe-1" value="Ve 805" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fDHc7nuSERFL8diUOKGe-1" value="Ve 805" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="186" y="294" width="40" height="18.5" as="geometry" />
         </mxCell>
-        <mxCell id="fDHc7nuSERFL8diUOKGe-4" value="Ve 806" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fDHc7nuSERFL8diUOKGe-4" value="Ve 806" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="355" y="297" width="40" height="18.5" as="geometry" />
         </mxCell>
-        <mxCell id="fDHc7nuSERFL8diUOKGe-5" value="BE2.805" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fDHc7nuSERFL8diUOKGe-5" value="BE2.805" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="146.68" y="221.25" width="40" height="18.5" as="geometry" />
         </mxCell>
-        <mxCell id="fDHc7nuSERFL8diUOKGe-6" value="BE2.806" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fDHc7nuSERFL8diUOKGe-6" value="BE2.806" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="432" y="210.26" width="40" height="18.5" as="geometry" />
         </mxCell>
       </root>
