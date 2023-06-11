@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T20:54:36.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SQxzRb2Q2iCDqHerc5GV" version="21.3.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-11T20:58:39.075Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="COthgIaKR9xuxRQGIUeM" version="21.3.7" type="github" pages="4">
   <diagram name="N99-280" id="qmEW6ajSkmtEpjvPChuy">
     <mxGraphModel dx="1328" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1051,6 +1051,12 @@
         </mxCell>
         <mxCell id="N3R9zYDcKvarUU2kym9O-34" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="515" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N3R9zYDcKvarUU2kym9O-35" value="ASR and QFX linkNet will be used for BGP&lt;br&gt;ASR interface POxy will remain under VPN01313&lt;br&gt;route prefix will be define in ASR.&lt;br&gt;-------------&amp;nbsp;&lt;br&gt;VPN01313 will be in QFX , receive default route for all OM network." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="40" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="N3R9zYDcKvarUU2kym9O-36" value="Citrix Terminal Host, from where user do regular Operation." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
