@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T21:06:05.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pAeTVeIh1HQIt_V99Bpa" version="21.3.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-11T21:11:36.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RWxAaF8l1pwkkecutNny" version="21.3.7" type="github" pages="4">
   <diagram name="N99-280" id="qmEW6ajSkmtEpjvPChuy">
     <mxGraphModel dx="1328" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1038,13 +1038,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N3R9zYDcKvarUU2kym9O-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="N3R9zYDcKvarUU2kym9O-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="N3R9zYDcKvarUU2kym9O-32" value="4089 -DCC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="180" width="80" height="30" as="geometry" />
+          <mxGeometry x="410" y="520" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N3R9zYDcKvarUU2kym9O-33" value="VPN01313&lt;br&gt;&lt;br&gt;BGP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="90" width="160" height="50" as="geometry" />
@@ -1052,8 +1047,8 @@
         <mxCell id="N3R9zYDcKvarUU2kym9O-34" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="515" width="50" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="N3R9zYDcKvarUU2kym9O-35" value="ASR and QFX linkNet will be used for BGP&lt;br&gt;ASR interface POxy will remain under VPN01313&lt;br&gt;route prefix will be define in ASR.&lt;br&gt;-------------&amp;nbsp;&lt;br&gt;1. VPN01313 will be in QFX , receive default route for all OM network from ASR.&lt;br&gt;2. QFX will be VRRP for all upstream OM traffic from Datacenter.&lt;br&gt;&lt;br&gt;3.QFX interface AE0 will remain under VPN01313 for upstream BGP.&lt;br&gt;&lt;br&gt;4.Others VRF/VPN/Context will be for Datacenter remain in QFX.&lt;br&gt;5. All kinds of OM Gateway will be VRRP Master IP in QFX for Datacenter.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
-          <mxGeometry x="590" y="30" width="240" height="390" as="geometry" />
+        <mxCell id="N3R9zYDcKvarUU2kym9O-35" value="ASR and QFX linkNet will be used for BGP&lt;br&gt;ASR interface POxy will remain under VPN01313&lt;br&gt;route prefix will be define in ASR.&lt;br&gt;-------------&amp;nbsp;&lt;br&gt;1. VPN01313 will be in QFX , receive default route for all OM network from ASR.&lt;br&gt;&lt;br&gt;2. QFX will irb IP will be Gateway for all upstream OM traffic from Datacenter.&lt;br&gt;&lt;br&gt;3.QFX interface AE0 will remain under VPN01313 for upstream BGP.&lt;br&gt;&lt;br&gt;4.Others VRF/VPN/Context will be for Datacenter remain in QFX.&lt;br&gt;&lt;br&gt;5. All kinds of OM Gateway will be irb IP in QFX for Datacenter.&lt;br&gt;&lt;br&gt;6.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="590" y="30" width="240" height="540" as="geometry" />
         </mxCell>
         <mxCell id="N3R9zYDcKvarUU2kym9O-36" value="Citrix Terminal Host, from where user do regular Operation." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="100" width="120" height="60" as="geometry" />
@@ -1085,6 +1080,15 @@
           <mxGeometry x="0.3368" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="N3R9zYDcKvarUU2kym9O-43" value="201 -VLAN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="560" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N3R9zYDcKvarUU2kym9O-45" value="4089 -DCC irb&lt;br&gt;192.168.0.1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="310" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N3R9zYDcKvarUU2kym9O-46" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="50" y="530" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
