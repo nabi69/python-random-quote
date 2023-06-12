@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T07:26:15.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OrbWj32ky9_dcjKmC3Tr" version="21.3.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-12T07:33:10.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="N8aC5Eq-BtOigL692E0o" version="21.3.7" type="github" pages="4">
   <diagram name="N99-280" id="qmEW6ajSkmtEpjvPChuy">
     <mxGraphModel dx="1021" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -563,7 +563,7 @@
         <mxCell id="IDGylJBqdUsXsSLu_kY1-2" value="10.86.88.37" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="332" y="10" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="48PQTO-Vo9RaUf7jUdLc-2" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;3270&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="48PQTO-Vo9RaUf7jUdLc-2" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Nabi:-&lt;br&gt;LinkNet Configuration need to do !!&lt;br&gt;Vlan-3270&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="529.5" y="410" width="220.5" height="50" as="geometry" />
         </mxCell>
       </root>
